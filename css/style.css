@@ -1,0 +1,42 @@
+body {
+font: 14px Taxoma;
+color: #333333;
+}
+p {
+text-indent:30px;
+}
+
+#header {
+color:#c32017;
+text-align:center;
+text-transform:uppercase;
+}
+
+
+.new2 {
+font-style:italic;
+}
+.new3 {
+font-weight:bold;
+text-decoration:line-through;
+}
+.new4 {
+text-align:justify;
+}
+a {
+text-decoration:none;
+border-bottom:2px dashed #C32017;
+}
+ul {
+list-style-image:url(../images/arrow.png);
+list-style-position:inside;
+
+}
+
+
+#liSuper {
+color:#56AEF3 /*голубой 100 баллов*/
+}
+#myList li.new6 {
+color:#400000 /*шоколадный 111 баллов*/
+}
